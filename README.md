@@ -13,12 +13,14 @@ The purpose of the this analysis is to review the data of various campaigns and 
 ### Analysis of Outcomes Based on Launch Date
 To perform the analysis for Outcomes Based on Launch Date, a pivot table was developed utilizing the Kickstarter data. I filtered the data by 'theater' from the Parent Category, so that we only look at the campaigns that are similiar to Louise's campaign.  The 'Date Created Conversion' is used to ensure that I view the months in which the campaigns were launched and performed a count on the Outcomes to display the campaigns performance by month. A line chart was created to provide a visual of the results.
 
-- INSERT CHART - 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/112449480/190057665-462fed39-6dff-4446-a05a-8673d3b1313e.png)
+
 
 ### Analysis of Outcomes Based on Goals
 To perform the analysis for Outcomes Based on Launch Date, a table was developed utilizing the Kickstarter data. A dollar-amout range was created to group projects based on their goals and at each goal level the Outcome was counted and a percentage was calculated. A line chart was created to provide a visual of the results. [^2]
 
-- INSERT CHART -
+![Outcome_vs_Goals](https://user-images.githubusercontent.com/112449480/190057643-e55ad81f-4322-49a3-8326-aa980cbacae8.png)
+
 
 ### Challenges and Difficulties Encountered
 The only challenge was how to write-up the analysis. Would the analysis & results description be the same? In order to resolve it, I tried to look at each item from different perspectives. In other word, what is the ask above (analysis of Launch Date & Goals) and how does it differ from the Results questions. I also laid out my thoughts to others (inside and outside of class), which assisted me in gaining perspective.
@@ -41,4 +43,4 @@ Organize and analyze the data based on the Play's location. For instance, if Lou
 
 
 [^1]: Utilize some of description from Module 1 work to assist in writing my background for the Challenge 
-[^2]: Utilize some of description from Module 1 Challenge- Deliverable 2 to assist with formulating my analysis for the Analysis of Outcomes Based on Goals section.
+[^2]: Utilize some of description from Module 1 Challenge- Deliverable 2 to assist with formulating my analysis for the Analysis of Outcomes Based on Goals section.!
