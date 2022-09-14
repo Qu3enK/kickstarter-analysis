@@ -28,18 +28,24 @@ The only challenge was how to write-up the analysis. Would the analysis & result
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Two conclusions that can be drawn about the Outcomes based on Launch date are
 1. Most Successful campaigns occurred in May and June. In December the number of Successful campaigns began to decline.
 2. In October the number of failed campaigns spiked.
 
 - What can you conclude about the Outcomes based on Goals?
+
 Based on the results, 73%-76% of campaigns that had a Goal of 5000 or less were successful.
 
 - What are some limitations of this dataset?
+
 For the Outcomes based on Goals, it takes into account all projects. It may be better to narrow the scope to provide the client with a better analysis for her particular area of interest
 
 - What are some other possible tables and/or graphs that we could create?
+
 Organize and analyze the data based on the Play's location. For instance, if Louise plans to put on her Play in the US, then organize and analyze the data for the US and create bar charts for the campaign goals and outcomes.
+
+
 
 
 [^1]: Utilize some of description from Module 1 work to assist in writing my background for the Challenge 
